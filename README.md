@@ -1,7 +1,7 @@
-Machine Learning Engineer Nanodegree Capstone Project
-Mark Ditsworth - Jan 2018
-
-Classification of Semiconductor Wafer Functionality
+# Machine Learning Engineer Nanodegree Capstone Project
+### Mark Ditsworth - Jan 2018
+================
+## Classification of Semiconductor Wafer Functionality
 
 Software: Capstone.py (Python 2.7.13)
 
@@ -13,3 +13,4 @@ Data Set: secom_labels.data.txt, secom.data.txt
 Instructions for running: 
 ensure secom_labels.data.txt and secom.data.txt are in the same directory as Capstone.py
 
+The project proposal and report are avaiable for reference.
