@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree Capstone Project
-### Mark Ditsworth - Jan 2018
-================
+##### Mark Ditsworth - Jan 2018
+
 ## Classification of Semiconductor Wafer Functionality
 
 Software: Capstone.py (Python 2.7.13)
