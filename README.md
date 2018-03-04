@@ -4,10 +4,13 @@
 ## Classification of Semiconductor Wafer Functionality
 ### Highlights
 Accuracy: 			  89%
+
 Matthews Correlation Coefficient: 0.75
 
 Available Features: 590
+
 Available Examples: 1,570 (104 "Failed" examples)
+
 Skewedness accounted for using SMOTE.
 
 The project proposal and report are avaiable for reference.
